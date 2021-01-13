@@ -32,3 +32,12 @@ https://github.com/ingafter60/Iranian_MagNews
         new file:   main/models.py
         new file:   main/tests.py
         new file:   main/views.py
+
+### 02.2.4 - Using templates, views, urls and settings to render Hello World 
+
+        modified:   README.md
+        new file:   main/templates/main/home.html
+        new file:   main/urls.py
+        modified:   main/views.py
+        modified:   myproject/settings.py
+        modified:   myproject/urls.py
