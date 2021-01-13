@@ -10,3 +10,12 @@ https://github.com/ingafter60/Iranian_MagNews
         modified:   LICENSE
         modified:   README.md
         new file:   manage.py
+
+### 01.2.2 - Create django project 'myproject' 
+
+        modified:   .gitignore
+        modified:   README.md
+        new file:   myproject/__init__.py
+        new file:   myproject/settings.py
+        new file:   myproject/urls.py
+        new file:   myproject/wsgi.py
