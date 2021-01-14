@@ -53,7 +53,10 @@ https://github.com/ingafter60/Iranian_MagNews
         new file:   main/static/front/IMG_Previews/03_HomePage_v3.jpg
         modified:   myproject/settings.py
 
+### 03.2.6 - Add Html template for the home page and load static files
 
+        modified:   README.md
+        modified:   main/templates/main/home.html 
 
 
 
