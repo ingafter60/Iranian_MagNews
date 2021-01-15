@@ -59,6 +59,15 @@ https://github.com/ingafter60/Iranian_MagNews
         modified:   main/templates/main/home.html 
 
 
+### 03.3.7 - Create about page
+
+        modified:   .gitignore
+        modified:   README.md
+        new file:   main/templates/main/front/about.html
+        renamed:    main/templates/main/home.html -> main/templates/main/front/home.html
+        modified:   main/urls.py
+        modified:   main/views.py
+
 
 
 
