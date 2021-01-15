@@ -90,8 +90,14 @@ https://github.com/ingafter60/Iranian_MagNews
         new file:   main/templates/main/front/partials/header/main-menu.html
         new file:   main/templates/main/front/partials/header/topbar.html
         
-### 04.2.10 - Add About Field
+### 04.2.10 - Setup MySQL DB and creat Main model
 
+        modified:   README.md
+        modified:   main/admin.py
+        new file:   main/migrations/0001_initial.py
+        modified:   main/models.py
+        modified:   myproject/settings.py
+        
 ### 04.3.11 - Query
 
 ### 04.4.12 - Show Data In Template
