@@ -77,7 +77,32 @@ https://github.com/ingafter60/Iranian_MagNews
         new file:   main/templates/main/front/master.html
 
 
+## SECTION 04 - Site setting
 
+
+### 04.1.9 - Template Partials and Link Address
+
+        modified:   README.md
+        modified:   main/templates/main/front/master.html
+        new file:   main/templates/main/front/partials/footer/footer.html
+        new file:   main/templates/main/front/partials/head/head.html
+        new file:   main/templates/main/front/partials/header/logo.html
+        new file:   main/templates/main/front/partials/header/main-menu.html
+        new file:   main/templates/main/front/partials/header/topbar.html
+        
+### 04.2.10 - Add About Field
+
+### 04.3.11 - Query
+
+### 04.4.12 - Show Data In Template
+
+### 04.5.13 - Add Title To Page
+
+### 04.6.14 - Add Social Networks
+
+### 04.7.15 - Set Title for Records
+
+### 04.8.16 - Configur Model
 
 
 
