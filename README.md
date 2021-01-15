@@ -68,9 +68,13 @@ https://github.com/ingafter60/Iranian_MagNews
         modified:   main/urls.py
         modified:   main/views.py
 
+### 03.4.8 - Using template inheritance to render pages 
 
-
-
+        modified:   .gitignore
+        modified:   README.md
+        modified:   main/templates/main/front/about.html
+        modified:   main/templates/main/front/home.html
+        new file:   main/templates/main/front/master.html
 
 
 
