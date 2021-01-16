@@ -169,9 +169,15 @@ https://github.com/ingafter60/Iranian_MagNews
         modified:   news/models.py
 
 
+### 05.3.19 - Detail news render without key/id/pk
 
-
-
+        modified:   README.md
+        modified:   main/templates/main/front/home.html
+        new file:   main/templates/main/front/news_detail.html
+        modified:   main/urls.py
+        modified:   main/views.py
+        modified:   news/urls.py
+        modified:   news/views.py
 
 
 
