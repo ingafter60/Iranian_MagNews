@@ -114,11 +114,19 @@ https://github.com/ingafter60/Iranian_MagNews
 
 ### 04.5.13 - Add Title To Page
 
-### 04.6.14 - Add Social Networks
+### 04.6.14 - Cofigure model for site settings + (04.5.13 - Add Title To Page)
 
-### 04.7.15 - Set Title for Records
+        modified:   main/migrations/0001_initial.py
+        modified:   main/models.py
+        modified:   main/templates/main/front/about.html
+        modified:   main/templates/main/front/home.html
+        modified:   main/templates/main/front/master.html
+        modified:   main/templates/main/front/partials/head/head.html
+        modified:   main/views.py
 
-### 04.8.16 - Configur Model
+### 04.7.15 - Add social networks
+
+### 04.8.16 - Other site settings
 
 
 

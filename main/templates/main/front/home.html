@@ -3,6 +3,11 @@
 {% extends "main/front/master.html" %}
 {% load static %}
 
+{% block pagetitle %}
+	{{ title.name }}
+{% endblock pagetitle %}
+
+
 {% block content %}
 	<!-- Feature post -->
 	<section class="bg0">

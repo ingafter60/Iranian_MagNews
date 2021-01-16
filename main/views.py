@@ -7,14 +7,11 @@ from .models import Main
 # Create your views here.
 def home(request):
 
-	# pagetitle = Main.objects.filter(pk=1)
-	pagetitle = Main.objects.get(pk=1)
-
-	return render(request, 'main/front/home.html', {'pagetitle':pagetitle})
+	site = Main.objects.get(pk=2)
+	return render(request, 'main/front/home.html', {'site':site})
 
 
 def about(request):
 
-	sitename = 'About page'
-	
-	return render(request, 'main/front/about.html', {'sitename':sitename})
+	site = Main.objects.get(pk=2)
+	return render(request, 'main/front/about.html', {'site':site})

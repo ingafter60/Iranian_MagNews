@@ -3,8 +3,16 @@
 <!DOCTYPE html>
 {% load static %}
 <html lang="en">
-<head>
+<head>	
+
+	<!-- Page title -->
+	<title>
+		{% block pagetitle %}{% endblock pagetitle %} | MagNews
+	</title>
+	
+	<!-- Include head -->
 	{% include 'main/front/partials/head/head.html' %}
+
 </head>
 <body class="animsition">
 	
