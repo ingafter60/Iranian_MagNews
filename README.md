@@ -141,6 +141,10 @@ https://github.com/ingafter60/Iranian_MagNews
         modified:   main/templates/main/front/partials/footer/footer.html
 
 
+## SECTION 05 - App News
+
+### 05.1.17 - Create app 'news', News model and register the app
+
 
 
 

@@ -40,6 +40,7 @@ INSTALLED_APPS = [
 
     # new
     'main.apps.MainConfig',
+    'news.apps.NewsConfig',
 ]
 
 MIDDLEWARE = [
