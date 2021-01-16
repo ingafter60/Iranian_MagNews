@@ -11,6 +11,8 @@ class Main(models.Model):
 	about 	= models.TextField(default="")
 	fb 		= models.CharField(max_length=40)
 	tw 		= models.CharField(max_length=40)
+	pin		= models.CharField(max_length=40)
+	vi 		= models.CharField(max_length=40)
 	yt 		= models.CharField(max_length=40)
 	phone 	= models.CharField(max_length=40)
 	link 	= models.CharField(max_length=40)

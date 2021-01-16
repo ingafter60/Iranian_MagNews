@@ -126,6 +126,12 @@ https://github.com/ingafter60/Iranian_MagNews
 
 ### 04.7.15 - Add social networks
 
+        modified:   README.md
+        new file:   main/migrations/0002_auto_20210116_2015.py
+        modified:   main/models.py
+        modified:   main/templates/main/front/partials/footer/footer.html
+        modified:   main/templates/main/front/partials/header/topbar.html
+        
 ### 04.8.16 - Other site settings
 
 
