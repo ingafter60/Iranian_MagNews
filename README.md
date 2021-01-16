@@ -105,7 +105,12 @@ https://github.com/ingafter60/Iranian_MagNews
         modified:   main/templates/main/front/partials/head/head.html
         modified:   main/views.py
 
-### 04.4.12 - Show Data In Template
+### 04.4.12 - Show Data In Template (Dynamic page title)
+
+        modified:   README.md
+        modified:   main/templates/main/front/partials/footer/footer.html
+        modified:   main/templates/main/front/partials/head/head.html
+        modified:   main/views.py
 
 ### 04.5.13 - Add Title To Page
 

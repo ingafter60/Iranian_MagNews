@@ -1,13 +1,16 @@
 # MAIN/views.py
 
 from django.shortcuts import render
+from .models import Main
+
 
 # Create your views here.
 def home(request):
 
-	sitename = 'Home page'
+	# pagetitle = Main.objects.filter(pk=1)
+	pagetitle = Main.objects.get(pk=1)
 
-	return render(request, 'main/front/home.html', {'sitename':sitename})
+	return render(request, 'main/front/home.html', {'pagetitle':pagetitle})
 
 
 def about(request):
