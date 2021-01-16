@@ -145,10 +145,28 @@ https://github.com/ingafter60/Iranian_MagNews
 
 ### 05.1.17 - Create app 'news', News model and register the app
 
+        modified:   README.md
+        new file:   main/migrations/0003_auto_20210116_2133.py
+        modified:   main/templates/main/front/home.html
+        modified:   myproject/settings.py
+        modified:   myproject/urls.py
+        new file:   news/__init__.py
+        new file:   news/admin.py
+        new file:   news/apps.py
+        new file:   news/migrations/0001_initial.py
+        new file:   news/migrations/__init__.py
+        new file:   news/models.py
+        new file:   news/tests.py
+        new file:   news/urls.py
+        new file:   news/views.py
 
+### 05.2.18 - Rendering news to template using for loop
 
-
-
+        modified:   README.md
+        modified:   main/templates/main/front/home.html
+        modified:   main/views.py
+        modified:   news/admin.py
+        modified:   news/models.py
 
 
 
