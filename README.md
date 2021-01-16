@@ -134,7 +134,11 @@ https://github.com/ingafter60/Iranian_MagNews
         
 ### 04.8.16 - Other site settings
 
-
+        modified:   README.md
+        modified:   main/templates/main/front/about.html
+        modified:   main/templates/main/front/home.html
+        modified:   main/templates/main/front/master.html
+        modified:   main/templates/main/front/partials/footer/footer.html
 
 
 
